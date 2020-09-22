@@ -11,7 +11,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec0XPkYGmjIVVf9z",
@@ -70,9 +70,11 @@
       "type": "Régional"
     },
     {
+      "Commentaire": "Renommé CNews en 2017. https://fr.wikipedia.org/wiki/CNews_(journal)",
       "airtableId": "rec1nzJ1TFieSYHbs",
       "creation": "2020-02-07T13:36:36.000Z",
-      "modification": "2020-02-07T13:36:36.000Z",
+      "disparu": true,
+      "modification": "2020-09-22T13:53:08.000Z",
       "nom": "CNews matin",
       "org-media": [
         "recAlo2c9NpHWzbWV"
@@ -103,7 +105,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec3ysgWFPvp373UY",
@@ -119,7 +121,7 @@
       "personne-media": [
         "recr7eCRIdI61a2dK"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec41KQ68w7ozPvRI",
@@ -185,7 +187,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec51FraxXrDuPXNj",
@@ -226,7 +228,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec5nKuDhVQgJx9d2",
@@ -319,7 +321,7 @@
     {
       "airtableId": "rec7nxb2nQhty579j",
       "creation": "2020-02-07T10:29:03.000Z",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-14T08:40:58.000Z",
       "nom": "Aujourd’hui en France",
       "org-media": [
         "rec82D80REllWd3Oo"
@@ -327,7 +329,8 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "prix": "Payant",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec7rSLG5N7viI051",
@@ -340,7 +343,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec8QN7PrTCM0nJoD",
@@ -353,7 +356,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rec8RppVtHa0JhTNl",
@@ -371,13 +374,13 @@
     },
     {
       "airtableId": "rec8XwnHj15nPXcy6",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "M6",
       "org-media": [
         "rec5kkXt1xRyqFu4t"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -517,13 +520,13 @@
     },
     {
       "airtableId": "recBMA9J1X7uWjE4b",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "CStar",
       "org-media": [
         "recV4WeUKEWdrqXbR"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -561,7 +564,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recCcU8fdmzO5a8oa",
@@ -602,7 +605,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recElavAxkiMK8RGJ",
@@ -629,7 +632,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recF7VUQUUt6vZOEv",
@@ -642,7 +645,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recFVxgiLbWrwbg5D",
@@ -680,7 +683,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recFvpkYe8BajAkh6",
@@ -700,7 +703,7 @@
       "airtableId": "recFwfkJ9hxcZPHlL",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T10:03:08.000Z",
       "nom": "Charente Libre",
       "org-media": [
         "recGt2zOMUQAyIBpt"
@@ -708,7 +711,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "Régional"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recG8LR2QcBD7SbbR",
@@ -723,18 +726,17 @@
     },
     {
       "airtableId": "recGUEG6KoHVJNr5A",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Gulli",
       "org-media": [
         "rec3wZSMSopYNIdtr"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
       "airtableId": "recGm5YS1eE1e0fPB",
-      "commentaire": "Télévision",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
       "modification": "2020-02-07T13:36:36.000Z",
@@ -742,6 +744,7 @@
       "org-media": [
         "recy6H22lhRa6MRMJ"
       ],
+      "prix": "Télévision",
       "type": "Régional"
     },
     {
@@ -755,18 +758,18 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recHD2u5rzoeQyFjB",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
-      "modification": "2020-02-07T13:36:36.000Z",
+      "modification": "2020-09-01T13:36:08.000Z",
       "nom": "Arte",
       "org-media": [
         "recNorfj6ct4T77fZ",
         "recYJwyCW1Bj4iTOi"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -808,7 +811,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recIUPkR57rEM45gJ",
@@ -826,15 +829,15 @@
     },
     {
       "airtableId": "recIX1HngOiZcw0PE",
-      "commentaire": "Pure player",
       "creation": "2020-02-07T10:29:03.000Z",
-      "modification": "2020-02-07T10:40:59.000Z",
+      "modification": "2020-09-17T09:48:06.000Z",
       "nom": "Atlantico.fr",
       "personne-media": [
         "reckUJeGlrkJOYd9m",
         "recctuzCvPt3ApIrJ",
         "recvjHcv5SuOtGy0C"
       ],
+      "prix": "Payant",
       "type": "Site"
     },
     {
@@ -851,7 +854,7 @@
       "personne-media": [
         "rec02xJeZKS6ll8l5"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recJLIi5wB2Q0o3lO",
@@ -912,39 +915,39 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recKwZNWouQITZMkW",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "France 4",
       "org-media": [
         "rectw7FWj10kHRGrE"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
       "airtableId": "recLEG3PD2A2MQi9e",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "RMC Découverte",
       "org-media": [
         "reczM3AhUzNEZOdge"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
       "airtableId": "recLKqcnYQsGMOmnQ",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Public Sénat",
       "org-media": [
         "recJYtxUe2IOAxwSy"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -988,13 +991,13 @@
     },
     {
       "airtableId": "recMmG1ss1QX4EEr5",
-      "commentaire": "Pure player",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Vice.com",
       "org-media": [
         "recHuoUOsKjLlSBlW"
       ],
+      "prix": "Pure player",
       "type": "Site"
     },
     {
@@ -1047,7 +1050,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recOHfbnaZuwZGfzO",
@@ -1074,17 +1077,17 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recOTmTIdjqks1dRm",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "LCI",
       "org-media": [
         "recDJBzYZQ2g8gEPT"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1117,13 +1120,13 @@
     },
     {
       "airtableId": "recPwvJS2Er03XBDn",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "France Ô",
       "org-media": [
         "recuDOIYc13jPrk9j"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1137,7 +1140,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recQPtcaSEkgYj511",
@@ -1206,7 +1209,7 @@
       "periodicite": [
         "Bimestriel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recRptkyJmPW2ExP0",
@@ -1224,13 +1227,13 @@
     },
     {
       "airtableId": "recRtEf07yxhKekxw",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "W9",
       "org-media": [
         "recVIjFwIs4IsxgB9"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1244,7 +1247,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recULnoWH66Rgx7cd",
@@ -1273,7 +1276,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recUctT43clHxd5fY",
@@ -1286,7 +1289,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recV4kFryTtSy8Jkw",
@@ -1299,28 +1302,28 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recWSSrTK4kThPoic",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "France 3",
       "org-media": [
         "recQVfx62fpXKM2lW"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
       "airtableId": "recWdtegnfiliouQl",
-      "commentaire": "Semi-payant",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Canal +",
       "org-media": [
         "recLGIwqNV7blFTjf"
       ],
+      "prix": "Semi-payant",
       "type": "Télévision"
     },
     {
@@ -1372,7 +1375,7 @@
       "periodicite": [
         "Bimestriel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recY0kbhVRSFMEVy0",
@@ -1385,7 +1388,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recYNFfwWjduZkDyC",
@@ -1459,13 +1462,13 @@
     },
     {
       "airtableId": "recYtmX8OiAYFFMRx",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "NRJ 12",
       "org-media": [
         "recSWz7CiBvSJ2WN2"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1479,7 +1482,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recYyi5akP4u1Qi4H",
@@ -1494,13 +1497,13 @@
     },
     {
       "airtableId": "recZ7jdSzVxMWbGeR",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "La Chaîne parlementaire",
       "org-media": [
         "recMUW16P3nW6G0XU"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1541,7 +1544,6 @@
     },
     {
       "airtableId": "recaBhLM7d8ecyWjo",
-      "commentaire": "Télévision",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
       "modification": "2020-02-07T13:36:36.000Z",
@@ -1549,13 +1551,15 @@
       "org-media": [
         "recuPm6lc09MbOWGA"
       ],
+      "prix": "Télévision",
       "type": "Régional"
     },
     {
+      "Commentaire": "Vienne",
       "airtableId": "recaowcccxg4fsPvi",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T09:49:36.000Z",
       "nom": "Centre Presse",
       "org-media": [
         "reckZNy1dDfsIeMAH"
@@ -1563,7 +1567,8 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "Régional"
+      "prix": "Payant",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recb0cofzCQT2tHEG",
@@ -1594,7 +1599,7 @@
       "airtableId": "reccIytFikpZYHmF3",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T09:49:40.000Z",
       "nom": "Centre Presse Aveyron",
       "org-media": [
         "recY4dHiXlqwHsceP"
@@ -1602,7 +1607,8 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "Régional"
+      "prix": "Payant",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "reccTxlw5Rjk1EmU5",
@@ -1645,13 +1651,13 @@
     },
     {
       "airtableId": "recdU854P6KRMYJSK",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "BFM TV",
       "org-media": [
         "recZFee4hadsOWOwx"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1665,7 +1671,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recdmkljC8YW8w8qv",
@@ -1692,7 +1698,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "receMCDDFz9UsuldK",
@@ -1705,7 +1711,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "receOACJDX2F2A9MF",
@@ -1757,7 +1763,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recff7V3kdx4pbtnS",
@@ -1785,10 +1791,10 @@
     },
     {
       "airtableId": "recfrFcPft5v7nDCa",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T10:33:41.000Z",
       "nom": "Numéro 23",
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1823,7 +1829,7 @@
       "airtableId": "rechFzBpilpqZds6A",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T10:04:22.000Z",
       "nom": "Corse Matin",
       "org-media": [
         "recjeSeHIQEXeo6Ys"
@@ -1831,7 +1837,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "Régional"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rechLaooEWCnlmPVI",
@@ -1844,7 +1850,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rechUvYyzqe1qnP07",
@@ -1871,17 +1877,17 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rechmqSf4vp43yLd3",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "France 5",
       "org-media": [
         "recEk362GEGiEme10"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1925,13 +1931,13 @@
     },
     {
       "airtableId": "recjPzhb0S8GrXZq1",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "TFX",
       "org-media": [
         "recLPF0jENOp4w6g1"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1946,13 +1952,13 @@
     },
     {
       "airtableId": "recjpywzrfFaJJMzm",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "TF1 Séries Films",
       "org-media": [
         "recQYBKG1W7WqKVuJ"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -1971,24 +1977,24 @@
     },
     {
       "airtableId": "reckRz8Z9HgErvnoe",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "C8",
       "org-media": [
         "recrFMFcdtGDFR19L"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
       "airtableId": "reckSa6tsUycnjQv4",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "RMC Story",
       "org-media": [
         "recJMBpfeA7bV3x1N"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -2007,10 +2013,10 @@
     },
     {
       "airtableId": "reckpGCHR7eJwgVBU",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T10:33:41.000Z",
       "nom": "CNews",
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -2052,7 +2058,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recmemLgMVb4vHRSS",
@@ -2078,15 +2084,16 @@
     {
       "airtableId": "recnFBmD8hLLXu2bf",
       "creation": "2020-02-07T10:29:03.000Z",
-      "echelle": "Féminin",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "echelle": "National",
+      "modification": "2020-03-12T13:41:46.000Z",
       "nom": "Elle",
       "org-media": [
         "recCLmiN8Rc7S3KM0"
       ],
       "periodicite": [
         "Hebdomadaire"
-      ]
+      ],
+      "type": "Féminin"
     },
     {
       "airtableId": "recnj9S2fEGxpySWG",
@@ -2104,13 +2111,13 @@
     },
     {
       "airtableId": "recnmzLRgdpIaQbmw",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "France 2",
       "org-media": [
         "recW6twNx6knl36A1"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -2138,17 +2145,18 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recpGbj2k0BN7paFa",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "National",
-      "modification": "2020-02-07T13:36:36.000Z",
+      "modification": "2020-09-14T08:41:05.000Z",
       "nom": "BFM Business",
       "org-media": [
         "recgfSsO7k2N3TBBT"
       ],
+      "prix": "Gratuit",
       "type": "Radio"
     },
     {
@@ -2214,17 +2222,17 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recqmEDKoQP8ud6U0",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "TMC",
       "org-media": [
         "recdvnRni2APOMaz3"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -2243,7 +2251,6 @@
     },
     {
       "airtableId": "recr7IUXufYS0tOGy",
-      "commentaire": "Pure player",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Huffingtonpost.fr",
@@ -2252,6 +2259,7 @@
         "recv7nXnEGYlNoQEZ",
         "recXiSzSAA8xOuBlo"
       ],
+      "prix": "Pure player",
       "type": "Site"
     },
     {
@@ -2265,7 +2273,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recrHn19T01VqRY0r",
@@ -2312,7 +2320,7 @@
     {
       "airtableId": "rectOCmJX34qmdQ4O",
       "creation": "2020-02-07T10:29:03.000Z",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-15T15:05:21.000Z",
       "nom": "Capital",
       "org-media": [
         "recps9kqiH6EFW35Q"
@@ -2320,7 +2328,8 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "prix": "Payant",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rectOoaEgCLlYuSvC",
@@ -2333,13 +2342,13 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "rectqTdBaXnVUYZWX",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T09:49:21.000Z",
       "nom": "Bretagne magazine",
       "org-media": [
         "recpjZCfmQuCRQoww"
@@ -2347,7 +2356,8 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "Régional"
+      "prix": "Payant",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recu6iTxmVOr34Z8A",
@@ -2377,7 +2387,7 @@
     {
       "airtableId": "recuUakchsE3kauOx",
       "creation": "2020-02-07T10:29:03.000Z",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-14T08:33:02.000Z",
       "nom": "20 Minutes",
       "org-media": [
         "recsOQD2vYbAVZ5em",
@@ -2386,7 +2396,8 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "prix": "Gratuit",
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recvKEuDOa7cXiUfQ",
@@ -2412,7 +2423,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recviGqwFYDROpIak",
@@ -2425,11 +2436,10 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recvzc1nG7d34S806",
-      "commentaire": "Télévision",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
       "modification": "2020-02-07T13:36:36.000Z",
@@ -2437,6 +2447,7 @@
       "org-media": [
         "recPqsuQ9MutUijDm"
       ],
+      "prix": "Télévision",
       "type": "Régional"
     },
     {
@@ -2450,7 +2461,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recwST6C3dBJQaq7R",
@@ -2477,7 +2488,7 @@
       "periodicite": [
         "Quotidien"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recxAkFJe1YuVOEpG",
@@ -2527,13 +2538,13 @@
         "recZkvMcDsE3J6hum",
         "recGtRpFVXT88wfQ2"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recxlc284e0N5vT9Z",
       "creation": "2020-02-07T10:29:03.000Z",
       "echelle": "Régional",
-      "modification": "2020-02-07T13:42:21.000Z",
+      "modification": "2020-09-17T10:04:32.000Z",
       "nom": "Courrier du Loiret",
       "org-media": [
         "recoj4r3gRriJpYUA"
@@ -2541,17 +2552,17 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "Régional"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "recyAdefi38zkIXiY",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "TF1",
       "org-media": [
         "recTdVmlMUyNvO5Sz"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     },
     {
@@ -2597,7 +2608,7 @@
       "periodicite": [
         "Mensuel"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "reczZU0dCfeuxbKd7",
@@ -2610,7 +2621,7 @@
       "periodicite": [
         "Hebdomadaire"
       ],
-      "type": "GPE"
+      "type": "Presse (généraliste, politique, économique)"
     },
     {
       "airtableId": "reczZaTSySahjdAGj",
@@ -2642,13 +2653,13 @@
     },
     {
       "airtableId": "reczoa7C2DcmUcouk",
-      "commentaire": "Pure player",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "Slate.fr",
       "org-media": [
         "rec3Gy1w3VNAdO9zp"
       ],
+      "prix": "Pure player",
       "type": "Site"
     },
     {
@@ -2667,13 +2678,13 @@
     },
     {
       "airtableId": "reczzWERYaJTXxCu9",
-      "commentaire": "Gratuit",
       "creation": "2020-02-07T10:29:03.000Z",
       "modification": "2020-02-07T13:36:36.000Z",
       "nom": "6ter",
       "org-media": [
         "recmj0HSTbhGuN4ku"
       ],
+      "prix": "Gratuit",
       "type": "Télévision"
     }
   ],
@@ -6617,14 +6628,14 @@
       ],
       "creation": "2020-02-07T10:31:08.000Z",
       "id": 3,
-      "modification": "2020-02-07T13:32:58.000Z",
+      "modification": "2020-08-17T15:35:20.000Z",
       "origine": [
         "recawVBXkMYpKTddJ"
       ],
       "qualificatif": [
         "recTLTcaUksYvNePC"
       ],
-      "valeur": 0.5
+      "valeur": 1
     },
     {
       "airtableId": "recaZmtrdX23y2jQy",
@@ -7364,8 +7375,8 @@
     {
       "airtableId": "recIo9Oexvuy0oxY8",
       "creation": "2020-02-07T10:29:55.000Z",
-      "modification": "2020-02-07T10:53:51.000Z",
-      "nom": "Länder de République fédérale d’Allemagne",
+      "modification": "2020-08-17T15:08:14.000Z",
+      "nom": "République fédérale d’Allemagne",
       "org-org": [
         "recwDtj5WHf3A1j3e"
       ],
@@ -7649,8 +7660,8 @@
     {
       "airtableId": "recWssdyymRSLTH2z",
       "creation": "2020-02-07T10:29:55.000Z",
-      "modification": "2020-02-07T13:36:22.000Z",
-      "nom": "Groupe L’Opinon",
+      "modification": "2020-08-17T13:39:32.000Z",
+      "nom": "Groupe L’Opinion",
       "org-media": [
         "rec1SCpOlQDCnZLdh",
         "recndhmM5nNzvdxgo"
@@ -8431,6 +8442,7 @@
       "cible": [
         "recWZJyO863GYar1x"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 7,
       "modification": "2020-02-07T10:58:19.000Z",
       "origine": [
@@ -8445,6 +8457,7 @@
       "cible": [
         "rec1HoFHsY1uY98ge"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 11,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8460,6 +8473,7 @@
       "cible": [
         "recP8bodUCERmEKKk"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 12,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8476,6 +8490,7 @@
         "rec3oC7y7kujdj49L"
       ],
       "commentaire": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP - Publication : 08/09/2017 - Consultation :",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 29,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8492,6 +8507,7 @@
         "recWssdyymRSLTH2z"
       ],
       "commentaire": "challenges.fr - Publication : 22/08/2014 - Consultation : '06/11/2019",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 13,
       "modification": "2020-02-07T10:58:21.000Z",
       "origine": [
@@ -8507,6 +8523,7 @@
         "recyXirJEhnAfjHjZ"
       ],
       "commentaire": "Consultation : 06/11/2019",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 18,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8522,6 +8539,7 @@
       "cible": [
         "recL2p9tRcrzmTBk1"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 8,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8537,6 +8555,7 @@
       "cible": [
         "rec4VgQSArU9cOslE"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 21,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8552,6 +8571,7 @@
       "cible": [
         "rechITvFWTpHdFqnv"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 28,
       "modification": "2020-02-07T10:58:26.000Z",
       "origine": [
@@ -8566,6 +8586,7 @@
       "cible": [
         "rec3h64LS72zlpeJm"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 26,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8581,6 +8602,7 @@
       "cible": [
         "recHun9VU3J4QigUG"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 17,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8597,6 +8619,7 @@
         "recWssdyymRSLTH2z"
       ],
       "commentaire": "Consultation : 06/11/2019",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 16,
       "modification": "2020-02-07T10:58:21.000Z",
       "origine": [
@@ -8611,6 +8634,7 @@
       "cible": [
         "recNRi8S8wSIJkOsB"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 20,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8626,6 +8650,7 @@
       "cible": [
         "recBJcszbPbxa1I0N"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 22,
       "modification": "2020-02-07T10:58:24.000Z",
       "origine": [
@@ -8640,6 +8665,7 @@
       "cible": [
         "recUko4eAqfnObqFK"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 4,
       "modification": "2020-02-07T10:58:18.000Z",
       "origine": [
@@ -8654,6 +8680,7 @@
       "cible": [
         "recd6qLYiUJJsZIR6"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 32,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8670,6 +8697,7 @@
         "recHPy9QhRUnaaZCs"
       ],
       "commentaire": "paris-normandie.fr - Publication : 07/07/2017",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 35,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8685,6 +8713,7 @@
       "cible": [
         "recpdNbRwtb8SLUQY"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 36,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8700,6 +8729,7 @@
       "cible": [
         "recyXirJEhnAfjHjZ"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 19,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8715,6 +8745,7 @@
       "cible": [
         "recqHj0OkATaLxppx"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 33,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8730,6 +8761,7 @@
       "cible": [
         "recKSnKWpnfxwceuo"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 3,
       "modification": "2020-02-07T10:58:17.000Z",
       "origine": [
@@ -8744,6 +8776,7 @@
       "cible": [
         "recBiLFefH2jhKgzE"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 2,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8759,6 +8792,7 @@
       "cible": [
         "reckOFlqM4qaEUd0J"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 27,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8774,6 +8808,7 @@
       "cible": [
         "recP7DTNT7BEhl0gA"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 31,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8789,6 +8824,7 @@
       "cible": [
         "rec27eDgaHxXCi6y6"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 1,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8804,6 +8840,7 @@
       "cible": [
         "recmKj6XdyAntM7Wj"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 9,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8819,6 +8856,7 @@
       "cible": [
         "recWr8iurGVOFKVfh"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 34,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8834,6 +8872,7 @@
       "cible": [
         "rec3h64LS72zlpeJm"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 25,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8850,6 +8889,7 @@
         "recWssdyymRSLTH2z"
       ],
       "commentaire": "challenges.fr - Publication : 22/08/2014 - Consultation : 06/11/2019",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 15,
       "modification": "2020-02-07T10:58:21.000Z",
       "origine": [
@@ -8865,6 +8905,7 @@
         "rec3oC7y7kujdj49L"
       ],
       "commentaire": "https://www.lemonde.fr/economie/article/2019/09/04/le-groupe-le-monde-demande-a-ses-actionnaires-de-tenir-leurs-engagements_5506287_3234.html - Consultation :",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 30,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8880,6 +8921,7 @@
       "cible": [
         "rec24LjpVA7EQ0IDE"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 24,
       "modification": "2020-02-07T10:58:24.000Z",
       "origine": [
@@ -8895,6 +8937,7 @@
         "recWssdyymRSLTH2z"
       ],
       "commentaire": "challenges.fr - Publication : 22/08/2014 - Consultation : 06/11/2019",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 14,
       "modification": "2020-02-07T10:58:21.000Z",
       "origine": [
@@ -8910,6 +8953,7 @@
         "recVN0K9wRulfVCpG"
       ],
       "commentaire": "bfmbusiness.bfmtv.com - Publication : 24/04/2018 - Consultation : 22/07/2018",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 6,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8925,6 +8969,7 @@
       "cible": [
         "recoFIK1ITmNGGoXi"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 5,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8941,6 +8986,7 @@
         "recWa5VD2kFniMT3j"
       ],
       "commentaire": "strategies.fr, AFP - Publication : 06/06/2018 - Consultation : ",
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 10,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -8956,6 +9002,7 @@
       "cible": [
         "recIeeR4eln3sUXke"
       ],
+      "creation": "2020-02-07T10:30:51.000Z",
       "id": 23,
       "modification": "2020-02-07T10:57:44.000Z",
       "origine": [
@@ -9103,7 +9150,7 @@
     {
       "airtableId": "recMizsi0QmaOixBY",
       "creation": "2020-02-07T10:29:41.000Z",
-      "modification": "2020-02-07T10:51:26.000Z",
+      "modification": "2020-09-01T12:38:59.000Z",
       "nom": "Nicolas Beytout",
       "personne-org": [
         "receyRIbHXcEzWSRU"
